@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python==3.9
   - numpy
-  - justpy
+  - justpy==0.1.5
   - matplotlib
   - pandas
   - pytz
