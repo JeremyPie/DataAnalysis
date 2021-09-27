@@ -1,2 +1,1 @@
-demjson
-justpy
+justpy==0.1.5
